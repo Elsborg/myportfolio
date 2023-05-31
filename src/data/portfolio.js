@@ -1,7 +1,7 @@
 export default [
     {
         title: 'Portfolio Website',
-        imgUrl: 'https://fastly.picsum.photos/id/72/600/400.jpg?hmac=kDSCE-9TrmDVBF6QmxfzQeNvLa0DSzSN4fknMFt6pkc',
+        imgUrl: '/assets/site.png',
         stack: ['Tailwind', 'Vite', 'React'],
         link: 'https://google.com',
     },
