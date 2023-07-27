@@ -20,7 +20,7 @@ export default [
     },
     {
         year: '2019',
-        title: 'Bachelor in Software Engineering',
+        title: 'Bachelor Degree in Software Engineering',
         duration: '2 years',
         details: "After considerable reflection and analysis of my personal and career objectives, I made the difficult decision to leave my bachelor degree in software engineering. I feel confident that this decision aligns with my current goals and the direction I want my professional path to take. Despite not completing the program, the experience has provided me valuable insights and skills that I can leverage in the future."
     },

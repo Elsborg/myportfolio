@@ -6,16 +6,16 @@ export default [
         link: 'https://google.com',
     },
     {
-        title: 'Course status',
-        imgUrl: 'https://fastly.picsum.photos/id/955/600/400.jpg?hmac=80PvxPd6BLKqVO9Vll0pulScP3lwkE4JI943jE-TuTw',
-        stack: ['React Native', 'GraphQL', 'JavaScript'],
-        link: 'https://google.com',
+        title: 'Phonebook',
+        imgUrl: '/assets/phonebook.png',
+        stack: ['React', 'Node', 'JavaScript', 'Express'],
+        link: 'https://person-service.onrender.com/',
     },
     {
-        title: 'Pin Positions',
-        imgUrl: 'https://fastly.picsum.photos/id/631/600/400.jpg?hmac=rYjpfAImhk4GM_Il-sn44bgx4DmZZCRSmdijkCkSpuQ',
+        title: 'Golf pin position interface',
+        imgUrl: '/assets/mockupgreenkeeper.jpg',
         stack: ['React Native', 'GraphQL', 'JavaScript'],
-        link: 'https://google.com',
+        link: 'https://www.linkedin.com/feed/update/urn:li:activity:7071808889163259904/',
     },
 ]
 
