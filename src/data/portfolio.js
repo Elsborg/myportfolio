@@ -3,7 +3,7 @@ export default [
         title: 'Portfolio Website',
         imgUrl: './assets/site.png',
         stack: ['Tailwind', 'Vite', 'React'],
-        link: 'https://google.com',
+        link: 'https://elsborg.github.io/myportfolio/',
     },
     {
         title: 'Phonebook',
